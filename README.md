@@ -53,16 +53,15 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polinkkkk&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinkkkk&layout=compact&hide_border=true&theme=default" />
-</p>
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=polinkkkk&hide_border=true&theme=default" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 📫 Get in touch
 
 <p>
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/@tvlpshkkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:sarinaapollinaria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
