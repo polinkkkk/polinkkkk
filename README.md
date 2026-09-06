@@ -47,7 +47,7 @@
 | Project | What I did | Link |
 |---|---|---|
 | **TSUmaps** | Android app for navigating a limited area with its own specifics. Analysis work and documentation | [Repository](https://github.com/exlip-creator/TSUmaps-android-application) |
-| **Kernel** | My own Unity game: an antivirus robot, parkour and shooter gameplay against virus enemies, boss fight. Wrote a systems analyst specification for it | [Repository](https://github.com/exlip-creator/Kernel) |
+| **Kernel** | Unity game: an antivirus robot, parkour and shooter gameplay against virus enemies, boss fight. Wrote a systems analyst specification for it | [Repository](https://github.com/exlip-creator/Kernel) |
 
 ---
 
