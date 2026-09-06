@@ -76,10 +76,9 @@ A systems analyst: I turn vague stakeholder wishes into clear requirements, diag
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polinkkkk&show_icons=true&hide_border=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinkkkk&layout=compact&hide_border=true&theme=default"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=polinkkkk&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
